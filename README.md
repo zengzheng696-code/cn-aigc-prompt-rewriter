@@ -11,7 +11,7 @@
 
 这是一套面向各类 **AI 助手 / 编码 Agent** 的可执行规则：在真正调用生图、生视频模型之前，先把中文草稿整理成 **可直接粘贴进模型**、且 **带模型标签与多版本对比** 的成稿。
 
-> **`SKILL.md` 顶部的 YAML**（`name` / `description`）主要为 **Cursor Skills** 的发现机制设计；在其他工具里可 **忽略 frontmatter**，正文规则仍然全部适用。
+> **`SKILL.md` 顶部的 YAML**（`name` / `description`）主要为 **Cursor Skills** 的发现机制设计；在其他工具里 ** frontmatter**规则仍然全部适用。
 
 ## 能力概览
 
