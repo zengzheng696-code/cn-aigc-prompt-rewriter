@@ -134,12 +134,6 @@ Claude Code 会读取项目里的 **`CLAUDE.md`** 作为长期项目说明；本
 
 ---
 
-## 手动上传到 GitHub
-
-若不使用 Git，可在 GitHub 网页 **新建仓库** 后，用 **「Add file → Upload files」** 上传本仓库内文件，并保持 **`references/`** 子目录结构不变。
-
----
-
 ## 许可与声明
 
 - 本 Skill 的 Markdown 文本可按需 **自用或分享**。
